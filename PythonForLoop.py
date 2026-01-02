@@ -1,0 +1,68 @@
+fruits = ["apple", "banana", "cherry"]
+for x in fruits:
+  print(x)
+
+fruits = ["apple", "banana", "cherry"]
+for x in "banana":
+  print(x)
+
+fruits=["appe","banana","cherry"]
+for x in fruits:
+  print(x)
+  if x=="banana":
+    break
+  
+fruits=["apple","banana","cherry"]
+for x in fruits:
+  if x=="banana":
+    break
+print(x)
+    
+fruits=["apple","banana","cherry"]
+for x in fruits:
+  if x=="banana":
+    continue
+print(x)
+    
+fruits=["apple","banana","cherry"]
+for x in range(6):
+  print(x)
+
+
+for x in range(2,6):
+  print(x)
+
+for x in range(2,30,3):
+ print(x)
+
+for x in range(6):
+  print(x)
+else:
+  print("Finally finished!")
+
+for x in range(6):
+  if x==3: break
+  print(x)
+else:
+  print("Finally FInished")
+
+for x in range(6):
+  print(x)
+else:
+  print("Finally finished")
+
+for x in range(6):
+  if x==3:
+    break
+  print(x)
+else:
+  print("finally finished!")
+
+adj=["red","big","tasty"]
+fruits=["apple","banana","cherry"]
+for x in adj:
+   for y in fruits:
+     print(x,y)
+       
+
+  

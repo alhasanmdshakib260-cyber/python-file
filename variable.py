@@ -1,0 +1,15 @@
+x=5
+y="john"
+print(x)
+print(y)
+x=4
+x="sally"
+print(x)
+x=str(3)
+y=int(3)
+z=float(3.0)
+print(x,y,z)
+x=5
+y="john"
+print(type(x))
+print(type(y))

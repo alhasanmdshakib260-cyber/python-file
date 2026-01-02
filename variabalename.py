@@ -1,0 +1,13 @@
+myvar="john"
+my_var="john"
+_my_var="john"
+myVar="john"
+myVar="john"
+MYVAR="john"
+myvar2="john"
+print(myvar)
+print(my_var)
+print(_my_var)
+print(myVar)
+print(MYVAR)
+print(myvar2)
